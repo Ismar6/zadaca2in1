@@ -29,7 +29,7 @@
   "dependencies": {
     "command": "0.0.5",
     "interface": "^1.2.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "line": "^0.1.8"
   }
 }
